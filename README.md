@@ -1,3 +1,5 @@
+(check out the other .txt files to better understand how AngelNET works)
+
 ##AngelNET Policies
 Enterprise Core Values Enterprise Core Values
 
